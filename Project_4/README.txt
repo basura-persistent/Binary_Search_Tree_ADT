@@ -1,7 +1,3 @@
-Name: Rohit Basu
-People I recieved assistance from: Sorren Tutor
-
-People I helped: Hector Romero
-
-Cited source:   https://en.wikipedia.org/wiki/Binary_search_tree
-                https://en.wikipedia.org/wiki/Search_tree
+- Using C++ I wrote  recursive and iterative solutions to ADT operations on a Binary Search Tree such as Find and Insert.
+-Used  a linked-list data structure to insert nodes while maintaining the value property of a Binary Search Tree
+-The use of this data structure allowed us to efficiently complete Insert and Find operations in a O(Log n) complexity
