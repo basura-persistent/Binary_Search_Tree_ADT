@@ -1,0 +1,25 @@
+0
+0
+0
+1
+0
+0
+recursive max depth4
+size5
+In order Dump
+0
+1
+2
+3
+5
+level order Dump
+1
+0
+2
+3
+5
+Deleting node0
+Deleting node5
+Deleting node3
+Deleting node2
+Deleting node1
